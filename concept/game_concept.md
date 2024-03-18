@@ -21,6 +21,7 @@ Throughout the game, the player's task will be to fight off the forces of the me
 Farm is a type of player-owned business. Farms can grow plants or livestock. They can be upgraded to increase quality and quantity of produced good. Everything that's produced on a farm can spoil, so better storage/transport solutions need to be incorporated.<br>
 Goods growing in the fields attract thieves and wildlife. Those dangers can be mitigated via hiring security, building fences, or taming some dangerous animals that will fend it off for you.<br>
 <br>
+
 #### Ships
 <br>
 There are going to be many different types of ships for every situation in this game; Exploration/recon ships, cargo ships, naval combat ships etc.<br>
@@ -28,12 +29,14 @@ Every ship can be upgraded in a variety of ways. There are going to be statistic
 Ships can also be equipped and personalised; Different kinds of weapons (e.g. cannons/harpoons) can be installed on decks of compatible ships, different crates (for better spoilage prevention/carrying capacity) can be equipped on cargo ships, ships can be coloured with different paints, sails can be painted and replaced, etc.<br>
 The ships are going to be independent vehicles, i.e. They can move without player's interaction. With sail powered vessels, the player will be able to set sail and direction and the ship will move independent of whether the player's at the steering wheel or not. This will allow the player to walk on deck while the vessel is moving and interact with different parts of the ship (i.e. sails or anchor). It will also make it possible for the player to lose their ships, forcing them to use them more responsibly.<br>
 <br>
+
 #### Combat
 <br>
 Combat system will define 3 different types of damage; Ranged, melee and magic. The player will be able to specialize in any number of them.<br>
 There aren't going to be skill trees, but instead, each profession has a level which goes up with the damage dealt. Certain milestone levels will allow the player to accept certain quests whose completion teaches the player a new skill. An example of a new skill could be an ice bolt spell, or a triple shot skill.<br>
 Some weapons will also have a minimum viable profession level to equip.<br>
 <br>
+
 #### Land vehicles
 <br>
 The game will define some land vehicles used for transporting goods over ground. Those vehicles will include farm wagons, pseudo trucks etc.<br>
@@ -42,6 +45,7 @@ Unlike ships, those vehicles cannot be independent and they won't move without a
 There are only going to be two categories of land vehicles; Recon and Cargo. There won't be combat types (like tanks).<br>
 Land vehicles can be obtained via either purchasing or building them (more expensive at first but cheaper in long term).<br>
 <br>
+
 #### Mounts
 <br>
 The game will define different three types of mounts; Naval, Land and Aerial.<br>
