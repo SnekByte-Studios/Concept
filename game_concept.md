@@ -95,24 +95,31 @@ The player has to build and upgrade their businesses accross different islands a
 Once the player leaves the starting island, they'll sail from island to island completing quests, opening businesses, fighting monsters and criminals, and working towards upgrading their gear.<br>
 
 ### Gameplay Elements:
+
+
 * Isometric Graphics,<br>
 * Different soils suiting different plants,<br>
-* Building farm buildings,<br>
-* Expanding farm, <br>
+    * Soil can be moved from island to island. Doing so is expensive and time consuming. 
+* Business
+    * Player can purchase land on every island. Once owned, that land can be repurposed for business, e.g. a farm or a forestry.
 * Farm animals<br>
-    * Produce unique goods e.g. Milk or Wool
+    * Produce unique goods e.g. Milk or Wool. Used in crafting or sold.
 * Various plants, <br>
+    * Different plants can be grown and harvested. They can be used as animal feed, crafting components or just sold.
 * Socializing, <br>
+    * Certain NPC's can be befriended which unlocks special dialogues and dialogue options.<br>
 * Acquiring new seeds,<br>
     * New, rarer and better seeds can be found on different islands. Some can only be grown on that island, some can be brought back to the main island for cultivation.
 * Mining, <br>
+    * Player can mine for metals, crystals and more. Used in crafting.<br>
 * Fishing, <br>
+    * Player can fish either at coast or at sea. Fish can be sold or made into food.<br>
 * Lumbering, <br>
-    * Farming wood
+    * Player can chop different types of wood. Wood is used in crafting and recipes.<br>
 * Sailing <br>
-    * Mostly used for transport. Can be used for exploration. Can be upgraded for speed, load (and maybe attack value).
+    * Player can sail ships. There are 3 types of ships: Recon, Combat, and Cargo. Ships can be powered by either wind or engine power.<br>
 * Employee Management,<br>
-    * Automation of production and trade<br>
+    * Employees can be managed, reassigned to another job, hired, fired, given raise, given better tools, and leveled up.<br>
 * Crops spoiling mechanic
     * crops have a quality rate. They deteriorate over time in storage or transport lowering the sell price.<br>
 * Pirates
@@ -122,5 +129,5 @@ Once the player leaves the starting island, they'll sail from island to island c
 * Predatory animals 
     * e.g. foxes killing farm animals. Prevent by putting up fences
 * Marketplace
-    * Used to acquire exotic goods that can be brought back to main island for profit, or kept if they're cosmetic or functional.
+    * Used to sell and purchase goods and stock. Displays information regarding the local market of the island it's on.<br>
 
