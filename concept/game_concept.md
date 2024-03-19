@@ -55,30 +55,46 @@ Most mounts will be able to attack while being ridden - This will come in handy 
 Mounts can be summoned, but they won't always show up instantly. Only some of the mounts will have the ability to appear at the player's position instantly, others will have to travel from the place they were left at.<br>
 <br>
 
+#### Crops and Soil
+<br>
+The game will have many different types of crops.<br>
+Each crop is only compatible with a narrow pH range. Planting it in soil with higher/lower pH than needed will result in the crop dying or not developing fully.<br>
+Different islands will have different pH levels of their soil and as such, will be populated with different plants.<br>
+The player can travel to different islands and unlock different plants by acquiring their seeds. They can also collect soil from any land that they own and move that soil to another farm field on another island.<br>
+Each crop, once collected, will spoil in storage and transit. The spoilage will be mitigatable via the incorporation of better storage such as salt barrels or freezers.<br>
+<br>
 
+#### Activities
+<br>
+Since the world is going to be somewhat of a sandbox to the player, they will be able to make money in a variety of ways. So far, the expected activities include: Lumbering, Fishing, Mining and Foraging.<br>
+The player will be able to automate and upgrade all of those activities.<br>
+The player will be able to do these things for either money or crafting items.<br>
+<br>
 
+#### Economy
+<br>
+Each island will have its own local economy, and each local economy will be simulated; There will be companies working on every island and producing a certain amount of goods every iteration. They will also be able to appreciate or depreciate in production and stock value, and the player will be able to affect that.<br>
+Price of an item will be dependent on the access that island has to that resource, so for example, if an island produces 40k carrots every day, the price per carrot on this island will be higher than that on an island which produces 80k carrots every day. This also means that flooding a market with one type of resource only, would soon enough become a bad economic decision.<br>
+Apart from local markets and economies, there is also going to be a global economy which will be a small factor affecting prices everywhere. This economy will be affected by all trades on all islands.<br>
+If the player is doing well and the global economy keeps on appreciating for long enough, there will be special items listed on the marketplace for limited time only. They will be awesome unique, and very expensive items.<br>
+<br>
 
+#### Workers and Automation
+<br>
+Player owned businesses can be automated with workers.<br>
+There are many different kinds of workers for different tasks, such as security, ship crew or farm workers.<br>
+Each worker levels up with time being employed. To stay employed however, they need to be paid a living wage.<br>
+Workers can be kidnapped or killed by pirates or criminals. When kidnapped, the player will be able to rescue them. If killed, the player gets to keep their wage money.<br>
+<br>
 
-#### Brief overview
+#### Gameplay Concept
+Player starts out on the starting island with nothing to their name. They're stuck there until they've made enough money to build a ship and leave the island. That money will usually be made by creating the player's first farm.<br>
 
-Player starts out on the starting island with nothing to their name. They're stuck there until they've made enough money to build a ship and leave the island. That money can be made with farming, foraging or else.<br>
-The player can set up various businesses on any land they own. Those businesses can be upgraded and automated with workers. Trade routes can be established with player-owned vehicles to automate supply.<br>
-Money can be used to upgrade farms, ships, tools, employees and to expand territory. It can be used to purchase seeds, essentials, cosmetics, new types of transport, certain mounts, etc.<br>
+The player has to build and upgrade their businesses accross different islands and then set up trade routes to sell their products at the highest markup possible.<br>
 
-
-
-### Brief overview
-Player starts out on the main island. They have to make enough money to build a ship and leave the island. Different soils suiting different plants can be found on different islands. The player has to build and upgrade their farms accross different islands and then set up trade routes to sell crops at the main island.
-
-Employees can be hired to automate crop production and trade routes.
-
-Money can be used to upgrade farms, ships, tools, employees and expand territory. It can also be used to purchase seeds, essentials such as animal feed, cosmetics, new types of transport (e.g. a horse wagon, a car or a fishing boat.)
-
-The main island has a pirate problem. This will be the main questline. Throughout the questline, player will meet different captains. There will be multiple ways to stop them (e.g. via diplomacy or force). There will also be a possibility to join the pirates.
-
-The goal is to colonize and automate all islands and complete the main questline which rids the world of pirates.
 
 ### Gameplay Elements:
+* Isometric Graphics,<br>
 * Different soils suiting different plants,<br>
 * Building farm buildings,<br>
 * Expanding farm, <br>
@@ -107,42 +123,3 @@ The goal is to colonize and automate all islands and complete the main questline
 * Marketplace
     * Used to acquire exotic goods that can be brought back to main island for profit, or kept if they're cosmetic or functional.
 
-<table>
-	<tr>
-		<th>Strengths</th>
-		<th>Weaknesses</th>
-		<th>Opportunities</th>
-		<th>Threats</th>
-	</tr>
-	<tr>
-		<td>Easier to make</td>
-		<td>More in-depth dialogues</td>
-		<td>New take on stardew valley</td>
-		<td>Too similar to stardew valley</td>
-	</tr>
-	<tr>
-		<td>Smaller map</td>
-		<td>More difficult to stay engaged</td>
-		<td>Higher odds of completing the project</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Smaller game</td>
-		<td>Need more textures</td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Sandbox</td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Engine suits the project</td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-
-</table>
