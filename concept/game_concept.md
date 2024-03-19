@@ -92,6 +92,7 @@ Player starts out on the starting island with nothing to their name. They're stu
 
 The player has to build and upgrade their businesses accross different islands and then set up trade routes to sell their products at the highest markup possible.<br>
 
+Once the player leaves the starting island, they'll sail from island to island completing quests, opening businesses, fighting monsters and criminals, and working towards upgrading their gear.<br>
 
 ### Gameplay Elements:
 * Isometric Graphics,<br>
