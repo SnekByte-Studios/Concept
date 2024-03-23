@@ -1,4 +1,3 @@
 ## The Scattered Lands (working title) Documentation
 
-This repository describes what the finished product will look like. It contains the game concept and all related documentation.
-
+This repository contains open resources describing the finished product.
